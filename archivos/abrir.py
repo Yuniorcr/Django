@@ -1,0 +1,5 @@
+archivos = open("hola.txt", "r")
+print(archivos.readlines())
+#print(archivos.readline())
+#print(archivos.readline())
+archivos.close()

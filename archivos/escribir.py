@@ -1,0 +1,5 @@
+archivos = open("hola.txt", "a")
+print(archivos.write("\nclinton"))
+#print(archivos.readline())
+#print(archivos.read())
+archivos.close()
